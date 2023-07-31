@@ -37,7 +37,7 @@
 </section>
 <h2 align="right">:mailbox_with_mail: CONTACTO</h2>
 <section align="center">
-<a href="https://www.linkedin.com/in/jose-vegas-850588265/" target="_blank">
+<a href="https://www.linkedin.com/in/jose-vegas-marquez/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:  jose--vegas-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
 <a href="mailto:josevegas.marquez@gmail.com" target="_blank">
